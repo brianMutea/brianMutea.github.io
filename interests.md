@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Interests
-permalink: /interests/
+title: Resume
+permalink: /resume/
 ---
 
 Some Interests!
